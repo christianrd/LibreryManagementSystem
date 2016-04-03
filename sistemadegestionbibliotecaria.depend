@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1385276878 source:c:\users\owner\desktop\c++\sistemadegestionbibliotecaria\src\elemento.cpp
+	"Elemento.h"
+
+1385277411 c:\users\owner\desktop\c++\sistemadegestionbibliotecaria\include\elemento.h
+	<string>
+
+1385277818 source:c:\users\owner\desktop\c++\sistemadegestionbibliotecaria\src\lista.cpp
+	"Lista.h"
+
+1385277714 c:\users\owner\desktop\c++\sistemadegestionbibliotecaria\include\lista.h
+	"Elemento.h"
+
+1385318271 source:c:\users\owner\desktop\c++\sistemadegestionbibliotecaria\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"Lista.h"
+
